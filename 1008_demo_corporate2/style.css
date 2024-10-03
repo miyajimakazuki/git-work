@@ -118,6 +118,11 @@ time {
   margin-right: 10px;
 }
 
+.flexbox .box img {
+    width: 100%;
+    
+}
+
 @media screen and (min-width: 900px) {
     .img_logo {
         width: 100px;
