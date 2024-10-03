@@ -22,7 +22,7 @@ li {
 
 
 .mainvisual {
-    width: 100%;
+    width: 1400px;
     height: calc(100vh - 80px);
     object-fit: cover;
     margin-bottom: 80px;
@@ -81,6 +81,7 @@ footer {
 .headernav {
     justify-content: center;
     align-items: center;
+    white-space: nowrap;
 
 }
 
