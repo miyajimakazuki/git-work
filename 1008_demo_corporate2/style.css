@@ -244,20 +244,28 @@ a.contact {
     }
     .flexbox .box2 h2 {
         margin-left: 70px;
+        margin-top: 110px;
     }
     #business .bis_flex {
         display:flex;
         justify-content: center;
         gap: 64px;
-        height: 673px;
+        /* height: 673px; */
     }
     #business .bis_flex .business-list1 {
         height: auto;
         margin-top: 90px;
     }
+    #business .bis_flex .business-list1 ul {
+        padding-left: 150px;
+    }
+
+    #business .bis_flex .business-list1 .section_jpn {
+       margin-bottom: 150px;
+    }
     #business .bis_flex .business-list2 {
         height: auto;
-        margin-bottom: 90px;
+        margin-top: 250px;
     }
     #business .bis_flex img {
         height: 232px;
@@ -311,6 +319,8 @@ a.contact {
     .footer_flex {
         display: flex;
         justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 40px;
     }
     .footer_flex img {
         margin-right: 600px;
